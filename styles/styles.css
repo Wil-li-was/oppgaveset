@@ -90,6 +90,9 @@
   height: 200px;
   width: 450px;
 }
-body{
-  background-image: url("https://cdn.pixabay.com/photo/2021/07/18/13/11/wreath-6475469_960_720.png") 
-} 
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2021/07/18/13/11/wreath-6475469_960_720.png");
+}
+p {
+  font-size: larger;
+}
