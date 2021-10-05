@@ -99,3 +99,6 @@ p {
 .invisibletxt {
   display: none;
 }
+p::first-letter {
+  color: #e22b2b;
+}
