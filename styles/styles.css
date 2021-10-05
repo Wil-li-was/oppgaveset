@@ -1,0 +1,56 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.header-container {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  border: 5px solid rgb(48, 48, 48);
+  padding: 5px;
+}
+
+.main-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+.info-container {
+  position: absolute;
+  text-align: center;
+  float: left;
+  width: 70%;
+  height: 30vh;
+  top: -5px;
+  border-bottom: 5px solid rgb(63, 63, 63);
+  border-top: 5px solid rgb(63, 63, 63);
+}
+.cheatsheet-container {
+  position: absolute;
+  text-align: center;
+  float: left;
+  width: 30%;
+  height: 30vh;
+  top: -5px;
+  left: 70%;
+  border: 5px solid rgb(87, 87, 87);
+}
+
+.questions-container {
+  position: absolute;
+  text-align: center;
+  float: left;
+  width: 100%;
+  height: 30vh;
+  top: 31%;
+}
+
+.blue-box {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  left: 45%;
+}
+/* */
