@@ -102,3 +102,6 @@ p {
 p::first-letter {
   color: #e22b2b;
 }
+#pink-box {
+  background-color: pink;
+}
