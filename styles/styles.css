@@ -55,14 +55,29 @@
 }
 /* */
 
-.Remi{ 
+.Remi {
   color: aqua;
- 
 }
 
-.William{
-  color:green; 
+.William {
+  color: green;
 }
 
-
-
+.box1 {
+  height: 250px;
+  width: 250px;
+  border: 2px solid;
+  background-color: aqua;
+}
+.box2 {
+  height: 250px;
+  width: 250px;
+  border: 2px solid;
+  background-color: red;
+}
+.box3 {
+  height: 250px;
+  width: 250px;
+  border: 2px solid;
+  background-color: purple;
+}
